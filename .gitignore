@@ -18,3 +18,5 @@ notebooks/**/data
 notebooks/twenty-newsgroups/.ipynb_checkpoints
 *.css
 notebooks/raft/.ipynb_checkpoints
+widget/crosscheck_widget.egg-info
+widget/build
