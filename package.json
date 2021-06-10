@@ -47,10 +47,10 @@
     "react-dom": "^16.8.3",
     "react-json-view": "^1.19.1"
   },
-  "author": "",
-  "homepage": "",
-  "license": "MIT",
-  "repository": "",
+  "author": "Dustin Arendt",
+  "homepage": "https://github.com/pnnl/crosscheck",
+  "license": "BSD",
+  "repository": "https://github.com/pnnl/crosscheck",
   "keywords": [
     "react-component"
   ]

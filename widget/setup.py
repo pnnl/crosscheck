@@ -125,7 +125,7 @@ with open(os.path.join(here, 'crosscheck', '_version.py')) as f:
     exec(f.read(), {}, version_ns)
 
 setup_args = {
-    'name': 'crosscheck',
+    'name': 'crosscheck-widget',
     'version': version_ns['__version__'],
     'description': 'Model comparison and debugging',
     'long_description': LONG_DESCRIPTION,
@@ -152,7 +152,7 @@ setup_args = {
 
     'author': 'Dustin Arendt',
     'author_email': 'dustin.arendt@pnnl.gov',
-    'url': 'https://github.com/PNNL/crosscheck-widget',
+    'url': 'https://github.com/pnnl/crosscheck',
     'keywords': [
         'ipython',
         'jupyter',
