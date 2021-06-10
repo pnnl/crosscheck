@@ -1,0 +1,2 @@
+recursive-include crosscheck/static *.*
+include crosscheck-widget.json
