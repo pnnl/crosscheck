@@ -41,7 +41,7 @@
     "@storybook/addons": "^4.0.12",
     "@storybook/react": "^4.0.12",
     "babel-loader": "^8.0.4",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "nwb": "0.21.x",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
